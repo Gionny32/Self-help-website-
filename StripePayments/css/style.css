@@ -1,0 +1,142 @@
+
+
+body {
+  overflow-x: hidden;
+}
+
+.navbar .nav-link {
+  font-size: 14px;
+  text-transform: uppercase;
+  padding-left: 1rem !important;
+  padding-right: 1rem !important;
+}
+
+.navbar .nav-item.active {
+  border-left: #444 3px solid;
+}
+
+.carousel-item {
+  height: 450px;
+}
+
+.carousel-image-1 {
+  background: url('../img/yoga2.jpg');
+  background-size: cover;
+}
+
+
+
+#video-play{
+  position: relative;
+  min-height: 200px;
+  background: url('../img/yoga3.jpg');
+  background-attachment: fixed;
+  background-repeat: repeat;
+  background-position: 0 -300px;
+  text-align: center;
+  color: #fff;
+
+}
+
+
+#video-play a {
+
+    color: white;
+}
+
+#home-heading {
+  position: relative;
+  min-height: 250px;
+  background: url('../img/yoga3.jpg');
+  background-attachment: fixed;
+  background-repeat: repeat;
+  text-align: center;
+  color: #fff;
+}
+
+#page-header-2{
+  position: relative;
+  min-height: 250px;
+  background: url('../img/yoga.jpeg');
+  background-attachment: fixed;
+  background-repeat: repeat;
+  text-align: center;
+  color: #fff;
+}
+
+.about-img {
+  margin-top: -50px;
+}
+
+#faq .card {
+  border: #444;
+position: center;
+}
+
+#faq a {
+  color: #fff;
+  text-decoration: none;
+}
+
+#faq .card-body,
+#faq .card-header {
+  background: #333;
+
+
+}
+
+
+#main-footer {
+  background: #000;
+  color: #fff;
+
+}
+
+.FieldInfo{
+
+    color: rgb(251, 174, 44);
+    font-family: Bitter,Georgia,"Times New Roman", Times,serif;
+    font-size: 1.2em;
+
+
+}
+
+
+.container1 {
+    margin-top: 100px;
+}
+
+.card {
+    width: 300px;
+    marging-Left: 90px;
+    margin-left: 90px;
+
+}
+
+.card:hover {
+    -webkit-transform: scale(1.05);
+    -moz-transform: scale(1.05);
+    -ms-transform: scale(1.05);
+    -o-transform: scale(1.05);
+    transform: scale(1.05);
+    -webkit-transition: all .3s ease-in-out;
+    -moz-transition: all .3s ease-in-out;
+    -ms-transition: all .3s ease-in-out;
+    -o-transition: all .3s ease-in-out;
+    transition: all .3s ease-in-out;
+}
+
+.list-group-item {
+    border: 0px;
+    padding: 5px;
+}
+
+.price {
+    font-size: 72px;
+}
+
+.currency {
+    position: relative;
+    font-size: 25px;
+    top: -31px;
+}

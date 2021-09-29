@@ -1,0 +1,132 @@
+body {
+  overflow-x: hidden;
+}
+
+.navbar .nav-link {
+  font-size: 14px;
+  text-transform: uppercase;
+  padding-left: 1rem !important;
+  padding-right: 1rem !important;
+}
+
+.navbar .nav-item.active {
+  border-left: #444 3px solid;
+}
+
+.carousel-item {
+  height: 450px;
+}
+
+.carousel-image-1 {
+  background: url('../img/image9.jpg');
+  background-size: cover;
+}
+
+.carousel-image-2 {
+  background: url('../img/image8.jpg');
+  background-size: cover;
+}
+
+.carousel-image-3 {
+  background: url('../img/image10.jpg');
+  background-size: cover;
+}
+
+#page-header-1 {
+  position: relative;
+  min-height: 250px;
+  background: url('../img/jorge-zapata-4nXkhLCrkLo-unsplash.jpg');
+  background-attachment: fixed;
+  background-repeat: -repeat;
+  text-align: center;
+  color: #fff;
+}
+    
+#page-header-2{
+  position: relative;
+  min-height: 250px;
+  background: url('../img/eiliv-sonas-aceron-ZuIDLSz3XLg-unsplash.jpg');
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  text-align: center;
+  color: #fff;
+}
+
+#page-header-3{
+  position: relative;
+  min-height: 250px;
+  background: url('../img/eiliv-sonas-aceron-ZuIDLSz3XLg-unsplash.jpg');
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  text-align: center;
+  color: #fff;
+}
+
+#page-header-4{
+  position: relative;
+  min-height: 250px;
+  background: url('../img/eiliv-sonas-aceron-ZuIDLSz3XLg-unsplash.jpg');
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  text-align: center;
+  color: #fff;
+}
+#page-header-5{
+  position: relative;
+  min-height: 250px;
+  background: url('../img/Dashboard.jpg');
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  text-align: center;
+  color: #fff;
+}
+
+
+#page-header-6{
+  position: relative;
+  min-height: 250px;
+  background: url('../img/editpost.jpg');
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  text-align: center;
+  color: #fff;
+}
+
+#page-header-7{
+  position: relative;
+  min-height: 250px;
+  background: url('../img/Delete.jpg');
+  background-attachment: fixed;
+  background-repeat: repeat;
+  text-align: center;
+  color: #fff;
+}
+#page-header-8{
+  position: relative;
+  min-height: 250px;
+  background: url('../img/Delete.jpg');
+  background-attachment: fixed;
+  background-repeat: repeat;
+  text-align: center;
+  color: #fff;
+}
+
+#page-header-9{
+  position: relative;
+  min-height: 250px;
+  background: url('../img/Delete.jpg');
+  background-attachment: fixed;
+  background-repeat: repeat;
+  text-align: center;
+  color: #fff;
+}
+
+#page-header-10{
+  position: relative;
+  min-height: 250px;
+  background: url('../img/Recipe.jpg');
+  background-attachment: fixed;
+  background-repeat: repeat;
+  text-align: center;
+  color: #fff;
+}

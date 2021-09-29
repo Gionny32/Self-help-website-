@@ -1,0 +1,90 @@
+body {
+  overflow-x: hidden;
+}
+
+.navbar .nav-link {
+  font-size: 14px;
+  text-transform: uppercase;
+  padding-left: 1rem !important;
+  padding-right: 1rem !important;
+}
+
+.navbar .nav-item.active {
+  border-left: #444 3px solid;
+}
+
+.carousel-item {
+  height: 450px;
+}
+
+.carousel-image-1 {
+  background: url('../img/image9.jpg');
+  background-size: cover;
+}
+
+.carousel-image-2 {
+  background: url('../img/image8.jpg');
+  background-size: cover;
+}
+
+.carousel-image-3 {
+  background: url('../img/image10.jpg');
+  background-size: cover;
+}
+
+#page-header-0{
+  height: 250px;
+  background: url('../img/manager.jpg');
+    background-position: 0 -350px;
+    background-attachment: fixed;
+    color: #fff;
+    border-bottom: 1px #eee solid;
+    padding-top: 5px;
+    
+}
+
+
+#page-header-1{
+  position: relative;
+  min-height: 250px;
+  background: url('../img/b.jpg');
+  background-attachment: fixed;
+  background-repeat: repeat;
+  text-align: center;
+  color: #fff;
+}
+
+
+#page-header-2{
+  position: relative;
+  min-height: 250px;
+  background: url('../img/blog1.jpg');
+  background-attachment: fixed;
+  background-repeat: repeat;
+  text-align: center;
+  color: #fff;
+}
+#main-footer {
+  background: #000;
+  color: #fff;
+   
+
+}
+
+.FieldInfo{
+    
+    color: rgb(251, 174, 44);
+    font-family: Bitter,Georgia,"Times New Roman", Times,serif;
+    font-size: 1.2em;
+    
+    
+}
+
+
+
+
+
+
+
+
+
